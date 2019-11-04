@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false, //padrão        
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    }
+}

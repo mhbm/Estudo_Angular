@@ -98,9 +98,6 @@ public/
 # Dist folder
 dist
 
-# TypeScript file
-tsconfig.json
-
 # Other files
 anotações.txt
 
